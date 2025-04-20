@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run",
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git+https://github.com/JayWebtech/certiva_cypress.git",
   "keywords": [],
@@ -18,7 +16,6 @@
   },
   "homepage": "https://github.com/JayWebtech/certiva_cypress#readme",
   "dependencies": {
-    "cypress": "^14.3.0",
-    "mochawesome": "^7.1.3"
   }
 }
+
